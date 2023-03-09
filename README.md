@@ -5,11 +5,11 @@ We have all had great team environments and crappy team environments over the co
 
 > "I don't care how the work gets done. I care how the team is run."
 
-Talented individuals are looking to apply their unique problem solving abilities wherever they have an insight. That's because a natural motivation to solve problems is part of what drives someone to become a talented engineer. Every high power engineer is a refined representation of their accumulated experiences, plus a lot more. Given that, every engineer is like a different algorithm or function that produces unique results when applied to a problem.
+Talented individuals are looking to apply their unique problem-solving abilities wherever they have an insight. That's because a natural motivation to solve problems is part of what drives someone to become a talented engineer. Every high power engineer is a refined representation of their accumulated experiences, plus a lot more. Given that, every engineer is like a different algorithm or function that produces unique results when applied to a problem.
 
 In a perfect scenario, it is best to run a problem past every available engineer because viewpoints are additive. In daily practice, we can't always do that but all of us need to remember at all times that viewpoints are always additive.
 
-I personally believe that every engineer has more talent in reserve than they have on the surface. A well operated engineering team environment will help bring everyone's talent up toward the surface.
+I personally believe that every engineer has more talent in reserve than they have on the surface. A well-operated engineering team environment will help bring everyone's talent up toward the surface.
 
 ## What makes it difficult
 
@@ -17,7 +17,7 @@ Most of us are accustomed to being in environments where the loudest voice wins 
 
 Because we have not had optimal work environments, all of us have developed habits that we need to investigate and possibly adjust in order to match sustainably with other top talent.
 
-I remember when I first began to work on teams with people who were smarter than me and better at some things. My first impulse was to show that I belonged. I often did that by pushing my ideas strongly to make sure they got heard. What I didn't know at that time was that a well operated engineering team has "being heard" already built into the structure, which frees the engineers to focus on their contributions and skip the struggle to have their contributions heard and respected.
+I remember when I first began to work on teams with people who were smarter than me and better at some things. My first impulse was to show that I belonged. I often did that by pushing my ideas strongly to make sure they got heard. What I didn't know at that time was that a well-operated engineering team has "being heard" already built into the structure, which frees the engineers to focus on their contributions and skip the struggle to have their contributions heard and respected.
 
 I learned that a good amount of the effort needed to wrangle and navigate team dynamics can be offloaded to a clearly defined process. It was cool.
 
@@ -31,7 +31,7 @@ Being able to trust each other as team members takes time and requires some "tri
 
 ## Engineering Management versus Engineering Leadership
 
-Engineering management is all about measurement and course correction. It is goal oriented. The measurement part consists of tracking if the team is achieving a stated goal. The course correction part is when the measurements are not looking favorable and someone needs to "manage" the situation by making changes.
+Engineering management is all about measurement and course correction. It is goal-oriented. The measurement part consists of tracking if the team is achieving a stated goal. The course correction part is when the measurements are not looking favorable and someone needs to "manage" the situation by making changes.
 
 Engineering management asks questions like "What do we do this sprint?" and "Are we hitting our targets?"
 
@@ -40,15 +40,15 @@ Engineering leadership asks "Are we living up to our agreed upon team culture?" 
 Engineering leadership is also the following:
 - Focused on how we work together both as humans and engineers
 - Oriented around growing the technical skills of the team and its members
-- Ensuring the team will attract and retain talent  
+- Ensuring the team will attract and retain talent
 - Focused on guiding instead of correcting or commanding
 - Growing new leaders within each team member
 
-The more than engineering leadership is embodied within everyone on the team, the more sustainable the culture will be over time. Senior team members ideally are able to teach newer team members engineering leadership by example and direct coaching.
+The more that engineering leadership is embodied within everyone on the team, the more sustainable the culture will be over time. Senior team members ideally are able to teach newer team members engineering leadership by example and direct coaching.
 
 ## Breakdowns in team culture
 
-Even a well operated team will suffer setbacks and breakdowns. Team culture is alive and it can become ill or die. It is fed and kept healthy by regular care in the form of culture review discussions and structure that assumes self-correcting change will always be needed.
+Even a well-operated team will suffer setbacks and breakdowns. Team culture is alive and it can become ill or die. It is fed and kept healthy by regular care in the form of culture review discussions and structure that assumes self-correcting change will always be needed.
 
 Here are a few things that tend to break down engineering team culture:
 - New team members added to a team that has already solidified but does not have a clearly defined culture and onboarding approach
@@ -59,7 +59,7 @@ Here are a few things that tend to break down engineering team culture:
 
 ## What talented engineers want
 
-All talented engineers want similar things as a "bottom line" and usually these things align very nicely with business goals and the desires of the other team members. Stating them outwardly can help ensure their manifestation.
+All talented engineers want similar things as a "bottom line" and usually these things align very nicely with business goals and the desires of the other team members. Stating them explicitly can help ensure their manifestation.
 
 Here's what engineers want (this is not a comprehensive list):
 - Solve meaningful problems using their most trusted skills
@@ -73,17 +73,17 @@ Here's what engineers want (this is not a comprehensive list):
 - Be fairly measured, guided, and coached
 - Have the opportunity to be amazed by others and learn from them
 
-## Brainstorming and group problem solving
+## Brainstorming and group problem-solving
 
 The favorite part of the day for many engineers is when a challenging problem arises and they get to kick their abilities into action to find a solution. For the engineers on the team who don't feel this way, it is often because they are not given the space to shine and they don't find these situations enjoyable.
 
-Situations that call for open problem solving, which includes brainstorming sessions, should be operated using a set of rules. This makes it possible for any group session to "have the same energy" even if some of the usual people are missing or there are new people present. It also makes it possible for sessions to get back on track quickly when the rules are violated because everyone can call out a rule and have the team help adjust the energy of the session.
+Situations that call for open problem-solving, which includes brainstorming sessions, should be operated using a set of rules. This makes it possible for any group session to "have the same energy" even if some of the usual people are missing or there are new people present. It also makes it possible for sessions to get back on track quickly when the rules are violated because everyone can call out a rule and have the team help adjust the energy of the session.
 
-Here are some starting rules for group engineering sessions. Each engineering team should review them together and make their own version. It can be an excellent first group engineering session in which the rules support the fine tuning of the rules.
+Here are some starting rules for group engineering sessions. Each engineering team should review them together and make their own version. It can be an excellent first group engineering session in which the rules support the fine-tuning of the rules.
 - Follow the rules of improv comedy - the answer is always "yes, and..."
 - Respond with questions instead of judgments until you fully understand the idea being brought to the group
 - Let every person naturally finish speaking before responding (just because ideas have been aired does not mean the group is going in that direction all of a sudden)
-- Acknowledge time pressure if it cannot be avoided and gently remind team members to "keep it tight" while still following the rules
+- Acknowledge time pressure if it cannot be avoided, and gently remind team members to "keep it tight" while still following the rules
 - Reduce the number of people in the group engineering session in favor of taking more time or holding additional sessions (the sacrifice is having fewer engineers give their perspective but this is a very good way to work with scarce resources such as time)
 - The improv answer of "yes" doesn't have to be an actual "yes" but can simply be holding space for an idea and listening genuinely
 - Remember that some of the most innovative solutions can come from the least immediately attractive ideas - all perspectives are additive
@@ -102,9 +102,9 @@ The best engineering teams have the best QA teams working alongside them. Strong
 
 Remote teams are common now. And working across time zones and geographies can be very challenging. Each team member is responsible for defining the working hours that are acceptable for them. Every engineer should make it clear to the rest of the team when they are available and when they are not available.
 
-It is difficult for individual engineers to defend their "end of day" when an issue is in progress or when team members need their contribution. To the greatest extent feasible, team members should support each others' start and end times by actively acknowledging and occasionally defending them to show the boundaries are seen and understood. Nobody wants to be the one in a group to "duck out" when everyone else is still working. Every team member should try their best to push a team member who is "timing out" to a conclusion of their contribution and encourage them to close their work day. This makes sustainability a team effort instead of an individual struggle.
+It is difficult for individual engineers to defend their "end of day" when an issue is in progress or when team members need their contribution. To the greatest extent feasible, team members should support each other's start and end times by actively acknowledging and occasionally defending them to show the boundaries are seen and understood. Nobody wants to be the one in a group to "duck out" when everyone else is still working. Every team member should try their best to push a team member who is "timing out" to a conclusion of their contribution and encourage them to close their work day. This makes sustainability a team effort instead of an individual struggle.
 
-Structure and process save lives... specifically the non-work lives of the team members. The more structured things become, the more likely it is that every person will achieve the same quality of results. And when everyone delivers simliar quality, then everyone is free to enjoy their time off when they are not on call or not working.
+Structure and process save lives... specifically the non-work lives of the team members. The more structured things become, the more likely it is that every person will achieve the same quality of results. And when everyone delivers similar quality, then everyone is free to enjoy their time off when they are not on call or not working.
 
 Spread unpleasant or repetitive or disruptive things across the whole team. One of the most common things is coverage for support and being on call for system outages. Until everyone knows how to cover it and feels the pain, the team won't reach an optimal solution. Make support coverage into the common enemy of the whole team. It will get resolved faster with more permanence.
 
@@ -132,15 +132,15 @@ Most teams do not want for this to happen. So how does it always end up happenin
 
 ## Engineers build replacements of themselves
 
-Every engineer wants to solve new problems. One of the best ways to do that is to transform their knowledge into self-service tools or documentation or cheat sheets or program code. The highest scale of problem solving can be achieved by turning one's own brain into these types of tool sets and letting people use them in a do-it-yourself fashion.
+Every engineer wants to solve new problems. One of the best ways to do that is to transform their knowledge into self-service tools or documentation or cheat sheets or program code. The highest scale of problem-solving can be achieved by turning one's own brain into these types of tool sets and letting people use them in a do-it-yourself fashion.
 
-If engineers take the time to "create themselves" in the form of materials and tools, the team and those outside of the engineering team must take advantage of those tools or the motivation to make them will die out.
+If engineers take the time to "create themselves" in the form of materials and tools, the team and those outside of the engineering team must take advantage of those tools, or the motivation to make them will die out.
 
-It takes a bit of effort for colleagues to learn how to use documentation and tools, but it must be part of the team and company culture. Without this effort, the result is that people take the "easy road" and simply rely on the engineer in perpetuity. If necessary, implement a tools and materials training program and hold everyone accountable for finishing the training and using what engineers make. Those engineers are trying to implement organizational learning, which is the only way a company can scale while retaining quality and healthy culture.
+It takes a bit of effort for colleagues to learn how to use documentation and tools, but it must be part of the team and company culture. Without this effort, the result is that people take the "easy road" and simply rely on the engineer in perpetuity. If necessary, implement a tools and materials training program, and hold everyone accountable for finishing the training and using what engineers make. Those engineers are trying to implement organizational learning, which is the only way a company can scale while retaining quality and healthy culture.
 
 ## Unified front backed by a brain trust
 
-A well operated team of talented engineers should be able to present a truly unified front. Decisions that have been made should either be supported or at least passively accepted by every team member. Each team member should refer back to the team when they find themselves in a discussion with an outside party and they do not know for sure how to handle requests for schedule changes, etc.
+A well-operated team of talented engineers should be able to present a truly unified front. Decisions that have been made should either be supported or at least passively accepted by every team member. Each team member should refer back to the team when they find themselves in a discussion with an outside party and they do not know for sure how to handle requests for schedule changes, etc.
 
 The backing of the unified front is a "brain trust". The wisdom of the team can only emerge when trusted working relationships have solidified.
 
