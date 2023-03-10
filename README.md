@@ -23,7 +23,7 @@ I learned that a good amount of the effort needed to wrangle and navigate team d
 
 When we encounter people who are really talented, we often feel one or more common discomforts. One example is feeling that the talented person might leave the team or become tired of carrying more than their share of workload. Another example is feeling that the talented person will branch over into our specialized area and eclipse our ability to be respected and heard.
 
-These feelings, and others, feel soothed then I remember that I am talented, too. The other team members probably have the same feelings bubbling up for them when they interact with me.
+These feelings are much easier to handle when I remember that I am talented, too. The other team members probably have the same feelings bubbling up for them when they interact with me.
 
 Being able to trust each other as team members takes time and requires some "trials". There is no way to trust something that hasn't been tested.
 
